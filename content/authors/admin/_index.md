@@ -3,26 +3,26 @@
 title: Zoe Southcott
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zoe
+last_name: Southcott
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Psychotheraputic Counsellor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Southcott Psychotherapy
+    url: https://southcottpsychotherapy.co.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -169,14 +169,14 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## I live in San Francisco, designing large language models at OpenAI.
+## PSYCHOTHERAPEUTIC COUNSELLOR
 
-I am a research scientist at Open AI where I am currently working on training ChatGPT v100.
-
-My research interests include:
-
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie lacus nec finibus bibendum. Nullam turpis nibh, viverra quis libero at, pharetra laoreet magna.
+I offer affordable consultations for those who
+wish to:
+· Explore and resolve their feelings, thoughts,
+and behaviours
+. Understand the effect of past experience
+. Identify areas for development
+. Gain greater insight and understanding in to
+themselves and the world
+. Set and work toward personal goals
