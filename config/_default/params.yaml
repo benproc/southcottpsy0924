@@ -11,11 +11,11 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
+    site_type: LocalBusiness
+    local_business_type: 'HealthAndBeautyBusiness'
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Offering Clinical Supervision and Personal Therapy using a Person Centred Approach and a blend of Dialectical Behaviour Therapy, Positive Psychology, and Mindfulness'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,7 +36,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Zoe Southcott'
     license:
       enable: true
       allow_derivatives: false
