@@ -173,10 +173,8 @@ awards:
 
 I offer affordable consultations for those who
 wish to:
-· Explore and resolve their feelings, thoughts,
-and behaviours
-. Understand the effect of past experience
-. Identify areas for development
-. Gain greater insight and understanding in to
-themselves and the world
-. Set and work toward personal goals
+- Explore and resolve their feelings, thoughts, and behaviours
+- Understand the effect of past experience
+- Identify areas for development
+- Gain greater insight and understanding in to themselves and the world
+- Set and work toward personal goals
