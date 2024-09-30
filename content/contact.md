@@ -7,4 +7,6 @@ date: 2023-10-24
 
 Please contact me by email to arrange an initial appointment
 
+📧 southcottzoe@yahoo.com
+
 
