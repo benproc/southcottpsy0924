@@ -8,7 +8,7 @@ sections:
 
   - block: resume-biography-2
     content:
-      title: Zoe Southcott MA, MNCSAccred, PsychCounDip, Post Grad Cert Clinical Supervision
+      title: Zoe Southcott, Psychotheraputic Counsellor
       # Note: `username` refers to the user's folder name in `content/authors/`
       image: newlogo
       username: admin
