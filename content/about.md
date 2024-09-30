@@ -11,12 +11,7 @@ sections:
       subtitle: MA, MNCSAccred, PsychCounDip, Post Grad Cert Clinical Supervision
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
-
       
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-
   - block: markdown
     content:
       title: My title
@@ -26,6 +21,12 @@ sections:
       
       ##Supervision 
       A positive, creative, reinforcing supervision style, We can collaboratively work toward growth and development, valuing openness, individuality, and learning.
+      
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+
+
 
 
 ---
