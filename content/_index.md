@@ -9,14 +9,14 @@ sections:
   - block: hero
     content:
       title: Southcott Psychotherapy
-      text: Psychotherapy in Oxford
+      # text: Psychotherapy in Oxford
       primary_action:
         text: Contact
         url: /contact
         icon: sparkles
       secondary_action:
-        text: about
-        url: https://example.com
+        text: Read More
+        url: /about
       #announcement:
        # text: Announcing the release of version 1.
        # link:
@@ -53,6 +53,7 @@ sections:
 
   - block: collection
     content:
+      title: Blog
       filters:
         folders:
           - post
