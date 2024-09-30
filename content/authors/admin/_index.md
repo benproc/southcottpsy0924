@@ -36,7 +36,7 @@ profiles:
   #  url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zoe-southcott-b7084a41/
-  - icon: custom/faceook
+  - icon: custom/facebook
     url: https://www.facebook.com/southcottpsychotherapy/
 
 education:
