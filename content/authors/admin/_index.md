@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MA, MNCSAccred, PsychCounDip, Post Grad Cert Clinical Supervision
+role: Psychotheraputic Counsellor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
