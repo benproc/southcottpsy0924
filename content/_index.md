@@ -8,20 +8,20 @@ sections:
 
   - block: hero
     content:
-      title: Hugo Blox
-      text: Build your site with blocks 🧱
+      title: Southcott Psychotherapy
+      text: Psychotherapy in Oxford
       primary_action:
-        text: Get Started
+        text: Contact
         url: https://example.com
         icon: sparkles
       secondary_action:
-        text: Read the docs
+        text: Read more
         url: https://example.com
-      announcement:
-        text: Announcing the release of version 1.
-        link:
-          text: Read more
-          url: https://example.com
+      #announcement:
+       # text: Announcing the release of version 1.
+       # link:
+        #  text: Read more
+       #   url: https://example.com
 
     design:
       background:
@@ -39,7 +39,7 @@ sections:
       # Use a fun parallax-like fixed background effect on desktop? true/false
           parallax: true
       # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
+          text_color_light: 
 
   - block: resume-biography-2
     content:
