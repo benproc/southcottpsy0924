@@ -12,10 +12,10 @@ sections:
       text: Psychotherapy in Oxford
       primary_action:
         text: Contact
-        url: https://example.com
+        url: /contact
         icon: sparkles
       secondary_action:
-        text: Read more
+        text: about
         url: https://example.com
       #announcement:
        # text: Announcing the release of version 1.
@@ -31,7 +31,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+            brightness: 0.8
       #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
           size: cover
       # Image focal point. Options include `left`, `center` (default), or `right`.
