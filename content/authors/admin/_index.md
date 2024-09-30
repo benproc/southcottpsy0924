@@ -181,13 +181,6 @@ wish to:
 - Gain greater insight and understanding in to themselves and the world
 - Set and work toward personal goals
 
-> Prices
-> Avg Cost (per session): £45– £60
-> Sliding Scale: Yes
-> Accepted Payment Methods: Bank transfer, Cash, Paypal
-
-
-
 
 ## Counselling
 I practise using a Person Centred Approach and a blend of Dialectical Behaviour Therapy, Positive Psychology, and Mindfulness. My Masters degree training and work experience enables me to practise as an integrative counsellor, utilising a range of therapeutic approaches depending on your needs and goals. I specialise in working with those experiencing addiction - both substance and process, disordered eating, and trauma. 
@@ -217,3 +210,12 @@ I offer consultations for individuals who want to explore, and improve their abi
 - For the last 20 years I have worked in various helping roles with a wide section of the community for drug and alcohol services, homelessness services, and mental health services, in both the public and private sectors.
 
 - Please see my page on The National Counselling Society website.
+
+
+> ## Prices
+>
+> Avg Cost (per session): £45– £60
+>
+> Sliding Scale: Yes
+>
+> Accepted Payment Methods: Bank transfer, Cash, Paypal
