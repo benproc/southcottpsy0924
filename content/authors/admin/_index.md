@@ -38,6 +38,8 @@ profiles:
     url: https://www.linkedin.com/in/zoe-southcott-b7084a41/
   - icon: custom/facebook
     url: https://www.facebook.com/southcottpsychotherapy/
+  - icon: custom/shield
+    url: https://ncps.com/counsellors/zs00p02
 
 education:
   - area: PhD Artificial Intelligence

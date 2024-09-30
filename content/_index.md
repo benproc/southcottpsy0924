@@ -10,6 +10,7 @@ sections:
     content:
       title: Psychotherapy in Oxford
       # Note: `username` refers to the user's folder name in `content/authors/`
+      image: newlogo
       username: admin
     design:
       spacing:
